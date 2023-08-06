@@ -1,5 +1,5 @@
-const APIURL = "http://www.omdbapi.com/?apikey=87d78c25";
-const SEARCHAPI = "http://www.omdbapi.com/?apikey=87d78c25";
+const APIURL = "https://www.omdbapi.com/?apikey=87d78c25";
+const SEARCHAPI = "https://www.omdbapi.com/?apikey=87d78c25";
 
 const main = document.getElementById("main");
 const form = document.getElementById("form");
